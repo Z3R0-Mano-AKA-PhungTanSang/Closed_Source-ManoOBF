@@ -1,5 +1,9 @@
 # Mano Obfuscate 
 a closed source obfuscator by Mano
+
+![Shenron Banner](https://raw.githubusercontent.com/Z3R0-Mano-AKA-PhungTanSang/Closed_Source-ManoOBF/refs/heads/main/ManoOBF.png)
+**-Just Weakness Obfuscator**
+
 # source code not available right now!
 ## Mano Youtube Channel [Mano Youtube](https://www.youtube.com/@JusttManoo)
 Source: 
